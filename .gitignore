@@ -1,0 +1,10 @@
+.ipynb*
+.spy*
+.vs*
+__*
+ARCHIVE
+PICTURES
+PREDICTIONS
+*.csv
+*.py
+
