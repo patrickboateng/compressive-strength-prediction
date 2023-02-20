@@ -2,6 +2,7 @@
 .spy*
 .vs*
 __*
+.venv
 ARCHIVE
 PICTURES
 PREDICTIONS
